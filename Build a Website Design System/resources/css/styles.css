@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainHeading {
+    width: 80%;
+    margin: 0 auto;
+}
+
+section {
+    width: 80%;
+    border: 2px solid grey;
+    margin: 10px auto;
+}
+
+.colours div {
+    display: inline-block;
+    width: 300px;
+    margin: 10px 5px;
+    text-align: center;
+}
+
+.fonts div {
+    display: inline-block;
+    width: 45%;
+}
+
+.fonts h3 {
+    text-decoration: underline;
+}
+
+.first {
+    background-color: #2d5dcc;
+    color: white;
+}
+
+.second {
+    background-color: #d957d9;
+}
+
+.third {
+    background-color: #4fe0b0;
+}
+
+.fourth {
+    background-color: #efd9ca;
+}
+
+.sourceCodePro .normal {
+    font-family: 'Source Code Pro', sans-serif;
+}
+
+.sourceCodePro .bold {
+    font-family: 'Source Code Pro', sans-serif;
+    font-weight: bold;
+}
+
+.sourceCodePro .italic {
+    font-family: 'Source Code Pro', sans-serif;
+    font-style: italic;
+}
+
+.nunitoSans .normal {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.nunitoSans .bold {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+}
+
+.nunitoSans .italic {
+    font-family: 'poppins', sans-serif;
+    font-style: italic;
+}
+
+.poppins .normal {
+    font-family: poppins, sans-serif;
+}
+
+.poppins .bold {
+    font-family: poppins, sans-serif;
+    font-weight: bold;
+}
+
+.poppins .italic {
+    font-family: poppins, sans-serif;
+    font-style: italic;
+}
